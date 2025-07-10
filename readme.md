@@ -30,11 +30,11 @@ No API key needed. Fully local setup.
   pip install -r requirements.txt
 
 ## Folder Structure
-video-search/
+<pre>video-search/
 ├── videos/               # Place your .mp4 files here
 ├── search_videos.py      # Main script
 ├── requirements.txt
-└── README.md
+└── README.md</pre>
 
 ## ▶️ How to Run
 Place your video files inside the videos/ folder
@@ -46,7 +46,7 @@ Ask any question when prompted. Example:
 Ask a question: what is nodejs?
 
 --- Result ---
-Video: video1.mp4
+<pre>Video: video1.mp4
 Timestamp: 0:00:21
 Answer Snippet:
-Node.js is a JavaScript runtime built on Chrome’s V8 engine...
+Node.js is a JavaScript runtime built on Chrome’s V8 engine...</pre>
