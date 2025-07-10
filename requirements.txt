@@ -1,0 +1,6 @@
+llama-index
+sentence-transformers
+whisper
+ffmpeg-python
+torch
+numpy
